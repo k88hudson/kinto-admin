@@ -11154,6 +11154,13 @@ i.fa:before {
   font-weight: 700;
 }
 
+.modal {
+  background-color: rgba(0,0,0,0.3);
+}
+.informative {
+  filter: grayscale(0.8);
+}
+
 /*Form Wizard*/
 .bs-wizard {margin-top: 40px;}
 .progress-steps .row.bs-wizard { border-bottom: 0; }
